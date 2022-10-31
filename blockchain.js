@@ -1,3 +1,4 @@
+// v2.0
 const Block = require('./block')
 const cryptoHash = require('./utils/crypto-hash')
 
