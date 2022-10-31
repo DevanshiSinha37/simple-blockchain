@@ -1,3 +1,4 @@
+// v2.0
 const { GENESIS_DATA } = require('./block')
 const cryptoHash = require('./utils/crypto-hash')
 
